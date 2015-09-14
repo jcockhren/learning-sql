@@ -29,11 +29,6 @@ For each of the following exercises, provide the appropriate query. Yes, even th
 16. Provide a query that shows all the Tracks, but displays no IDs. The resultant table should include the Album name, Media type and Genre.
 17. Provide a query that shows all Invoices but includes the # of invoice line items.
 18. Provide a query that shows total sales made by each sales agent.
-
-## Extra
-
-Once you're down with the section above attempt the following to see how far you can get!
-
 19. Which sales agent made the most in sales in 2009? HINT: [MAX](https://www.sqlite.org/lang_aggfunc.html#maxggunc)
 20. Which sales agent made the most in sales in 2010?
 21. Which sales agent made the most in sales over all?
