@@ -3,7 +3,7 @@
 
 ### Instructions
 
-1. Ensure you have the [Chinook Database](https://github.com/lerocha/chinook-database) and [SQLite Manager Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager-webext/) installed.
+1. Ensure you have the [Chinook Database](http://chinookdatabase.codeplex.com/) and [SQLite Manager Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/) installed.
 2. Fork this repo.
 3. Clone the fork you created.
 4. Each answer should be in it's own file. For example, the file contains your answer for question #1 would be `1.sql` and for question #17 the file name would be `17.sql`.
